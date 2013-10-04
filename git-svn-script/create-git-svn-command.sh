@@ -7,6 +7,3 @@ echo "This command will git svn clone your latest $numChanges changes"
 echo
 echo "git svn clone -r$rev_start:$latest_rev $1"
 echo
-
-
-
